@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color: green;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 16px;
+	line-height:18px;
+	width: 600px;
+	background-color: pink;
+	padding: 50px; 
+}
+.paragraf_2 {color: darkcyan; background-color: rgba(255, 255, 255, 0.5)}
+.novi_blok {
+	background-color: rgba(255, 255, 255, 0.8);
+	padding: 20px;
+	margin: 20px;
+	width: 50%;
+}
+h1, h2 {
+	font-family:Gotham, "Helvetica Neue," Helvatica, Arial, "sans-serif";
+	color:cadetblue;
+}
+
+span {color: rgb(255,0,255);}
+.pozadina{
+	background-image: url("Slike/mojaslika.jpg");
+}
+
+a:link{
+	color:black;
+	background-color:purple;
+	padding:6px;
+	line-height: 25px;
+	border: 2px solid #000000;"
+}
+a:hover{
+	background-color: darkcyan;
+}
+img{
+	height: 300px;
+}
